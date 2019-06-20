@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "420675104328",
+    "firebase_url": "https://etec-ferias.firebaseio.com",
+    "project_id": "etec-ferias",
+    "storage_bucket": "etec-ferias.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420675104328:android:4fc55352b047ac83",
+        "android_client_info": {
+          "package_name": "solicitacaoferias.etechoracio.com.br.firebasegiovane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420675104328-svd0gk0sre3qav935nj9ie210fsfi0o9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "solicitacaoferias.etechoracio.com.br.firebasegiovane",
+            "certificate_hash": "6c27e96497b2c62e1911f45f543cdb1b6875accc"
+          }
+        },
+        {
+          "client_id": "420675104328-ob7c1ismrskmq7adg2s4h6gg3bo3an80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqAmT7OIngEKfXgastSSFEKZaclbzoNeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420675104328-ob7c1ismrskmq7adg2s4h6gg3bo3an80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
